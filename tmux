@@ -1,3 +1,6 @@
+# touch ~/.tmux.conf
+# copy lines to the file
+
 # Use Alt-arrow keys to switch panes
 bind -n M-Left select-pane -L
 bind -n M-Right select-pane -R
